@@ -1,3 +1,5 @@
+# Use this script to find various accounts existence of a given username
+
 import requests
 from colorama import init, Fore, Back, Style
 
